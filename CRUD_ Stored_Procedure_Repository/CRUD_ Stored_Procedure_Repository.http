@@ -1,0 +1,6 @@
+@CRUD__Stored_Procedure_Repository_HostAddress = http://localhost:5083
+
+GET {{CRUD__Stored_Procedure_Repository_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
